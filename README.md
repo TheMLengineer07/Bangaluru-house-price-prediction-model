@@ -56,7 +56,6 @@
 * Error Metrics: Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 * Feature Importance: Understanding how different factors affect price.
 
-# Conclusion and Future Scope
 #  Summary
 * The project successfully predicts house prices using Linear Regression,Decision Tree Regressor and Lasso
 * Removing outliers and feature engineering improves accuracy.
